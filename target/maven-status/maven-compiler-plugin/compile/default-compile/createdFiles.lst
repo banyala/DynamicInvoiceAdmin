@@ -1,0 +1,9 @@
+com\example\entity\User.class
+com\example\repository\UserRepository.class
+com\example\DemoApplication.class
+com\example\entity\User$UserBuilder.class
+com\example\repository\InvoiceRepository.class
+com\example\repository\InvoiceTemplateRepository.class
+com\example\entity\Invoice.class
+com\example\controller\UserController.class
+com\example\entity\InvoiceTemplate.class
